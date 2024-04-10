@@ -1,0 +1,139 @@
+{
+  "header": {
+    "name": "Jayanthbharadwaj M",
+    "title": "Full Stack Developer",
+    "description": "Developer with more than 5 years of experience in Full Stack development",
+    "email": "jayanthbharadwajm@gmail.com",
+    "mobile": "8892218173",
+    "linkedIn": "www.linkedin.com/in/jayanthbharadwaj-m-814a5697",
+    "github": "https://github.com/Jayanthbm",
+    "location": "Bangalore, India"
+  },
+  "leftContent": [
+    {
+      "title": "Work Experience",
+      "data": [
+        {
+          "title": "Full Stack Developer",
+          "subtitle": "Tata Consultancy Services",
+          "leftSmallTitle": "10/2020 - Present",
+          "rightSmallTitle": "Bengaluru",
+          "tasks": [
+            "Worked as a Backend developer in the Edtech platform named Aulas.",
+            "User Management development which includes user registration, creation and updating of users.",
+            " Fee Management which includes the creation of fee links and acceptance of payments (Cashfree Integration).",
+            " Communication Service Involves sending SMS and email to Users."
+          ]
+        },
+        {
+          "title": "Full Stack Developer",
+          "subtitle": "Tata Consultancy Services",
+          "leftSmallTitle": "10/2020 - Present",
+          "rightSmallTitle": "Bengaluru",
+          "tasks": [
+            "Worked as a Backend developer in the Edtech platform named Aulas.",
+            "User Management development which includes user registration, creation and updating of users.",
+            " Fee Management which includes the creation of fee links and acceptance of payments (Cashfree Integration).",
+            " Communication Service Involves sending SMS and email to Users."
+          ]
+        },
+        {
+          "title": "Intern",
+          "subtitle": "Augplat Technologies",
+          "leftSmallTitle": "08/2018 - 10/2018",
+          "rightSmallTitle": "Bengaluru",
+          "tasks": ["Maintained Databases, Developed new Dashboards"]
+        }
+      ],
+      "type": "work-details"
+    },
+    {
+      "title": "Education",
+      "data": [
+        {
+          "title": "Bachelor of Engineering",
+          "subtitle": "Bangalore Institute of Technology / Bangalore",
+          "leftSmallTitle": "08/2015 - 06/2018",
+          "rightSmallTitle": "53%",
+          "major": "Information Science"
+        },
+        {
+          "title": "Diploma",
+          "subtitle": "PES Polytechnic/Bangalore",
+          "leftSmallTitle": "06/2012 - 06/2015",
+          "rightSmallTitle": "70%",
+          "major": "Computer Science"
+        }
+      ],
+      "type": "education-details"
+    }
+  ],
+  "rightContent": [
+    {
+      "title": "Programming Languages",
+      "data": ["JavaScript", "PHP"],
+      "type": "tags"
+    },
+    {
+      "title": "Frameworks",
+      "data": ["nodeJs", "reactJs", "react Native"],
+      "type": "tags"
+    },
+    {
+      "title": "Databases",
+      "data": ["MySQL", "PostGreSQL", "MongoDB"],
+      "type": "tags"
+    },
+    {
+      "title": "Tools",
+      "data": ["AWS", "git"],
+      "type": "tags"
+    },
+    {
+      "title": "Languages",
+      "data": [
+        {
+          "name": "English",
+          "level": "Professional Working Proficiency"
+        },
+        {
+          "name": "Kannada",
+          "level": "Native"
+        }
+      ],
+      "type": "language"
+    },
+    {
+      "title": "Personal Projects",
+      "data": [
+        {
+          "title": "Stothram",
+          "link": "https://github.com/Jayanthbm",
+          "duration": "06/2020 - Present",
+          "description": "",
+          "tasks": [
+            "Mobile Application for our community, developed Using React Native.",
+            "Link : https://play.google.com/store/apps/details?id=com.jayanth.shotram ."
+          ],
+          "technologies": ["React Native", "React"]
+        },
+        {
+          "title": "Trivia Bot",
+          "link": "",
+          "duration": "02/2018 - 03-2018",
+          "description": "",
+          "tasks": [
+            "Developed a small bot using python which grabs the screenshot at a particular coordinates and converts it to text using google Vision API and googles the question and compares the result with options provided and ranks the answers and predict the answer for the question"
+          ],
+          "technologies": ["Python"]
+        }
+      ],
+      "type": "projects"
+    },
+    {
+      "title": "Interests",
+      "data": ["Cricket", "Movies", "Music"],
+      "type": "tags"
+    }
+  ]
+}
