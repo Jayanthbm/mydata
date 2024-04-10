@@ -5,7 +5,6 @@
     "description": "Developer with more than 5 years of experience in Full Stack development",
     "email": "jayanthbharadwajm@gmail.com",
     "mobile": "8892218173",
-    "linkedIn": "www.linkedin.com/in/jayanthbharadwaj-m-814a5697",
     "github": "https://github.com/Jayanthbm",
     "location": "Bangalore, India"
   },
@@ -71,7 +70,7 @@
   "rightContent": [
     {
       "title": "Programming Languages",
-      "data": ["JavaScript", "PHP"],
+      "data": ["JavaScript", "go", "Typescript", "PHP"],
       "type": "tags"
     },
     {
@@ -108,20 +107,22 @@
       "data": [
         {
           "title": "Stothram",
-          "link": "https://github.com/Jayanthbm",
-          "duration": "06/2020 - Present",
-          "description": "",
+          "link": "https://github.com/Jayanthbm/stothram",
+          "leftSmallTitle": "06/2020 - Present",
+          "rightSmallTitle": "",
+          "subtitle": "Mobile Application for community, developed Using React Native.",
           "tasks": [
-            "Mobile Application for our community, developed Using React Native.",
+            "Mobile Application for community, developed Using React Native.",
             "Link : https://play.google.com/store/apps/details?id=com.jayanth.shotram ."
           ],
           "technologies": ["React Native", "React"]
         },
         {
           "title": "Trivia Bot",
-          "link": "",
-          "duration": "02/2018 - 03-2018",
-          "description": "",
+          "link": "https://github.com/Jayanthbm/triviabot",
+          "leftSmallTitle": "02/2018 - 03-2018",
+          "rightSmallTitle": "",
+          "subtitle": "Trivia Bot in Python",
           "tasks": [
             "Developed a small bot using python which grabs the screenshot at a particular coordinates and converts it to text using google Vision API and googles the question and compares the result with options provided and ranks the answers and predict the answer for the question"
           ],
