@@ -13,9 +13,23 @@
       "title": "Work Experience",
       "data": [
         {
-          "title": "Full Stack Developer",
-          "subtitle": "Tata Consultancy Services",
-          "leftSmallTitle": "10/2020 - Present",
+          "title": "Techinical Lead",
+          "subtitle": "Truminds software systems",
+          "leftSmallTitle": "11/2023 - Present",
+          "rightSmallTitle": "Bengaluru",
+          "tasks": []
+        },
+        {
+          "title": "Senior Developement Engineer-2",
+          "subtitle": "Truminds software systems ",
+          "leftSmallTitle": "11/2022 - 11/2023",
+          "rightSmallTitle": "Bengaluru",
+          "tasks": []
+        },
+        {
+          "title": "Associate Software Engineer",
+          "subtitle": "Brigosha Technologies",
+          "leftSmallTitle": "10/2021 - 11/2022",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
             "Worked as a Backend developer in the Edtech platform named Aulas.",
@@ -25,15 +39,14 @@
           ]
         },
         {
-          "title": "Full Stack Developer",
-          "subtitle": "Tata Consultancy Services",
-          "leftSmallTitle": "10/2020 - Present",
+          "title": "Product Developer",
+          "subtitle": "Camp Automation",
+          "leftSmallTitle": "10/2018 - 10/2021",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
-            "Worked as a Backend developer in the Edtech platform named Aulas.",
-            "User Management development which includes user registration, creation and updating of users.",
-            " Fee Management which includes the creation of fee links and acceptance of payments (Cashfree Integration).",
-            " Communication Service Involves sending SMS and email to Users."
+            "Development of web applications based on PHP, Node Js and React",
+            "Development of Mobile Applications using React-Native",
+            "Creating and Maintaining of database-users and databases"
           ]
         },
         {
@@ -41,7 +54,10 @@
           "subtitle": "Augplat Technologies",
           "leftSmallTitle": "08/2018 - 10/2018",
           "rightSmallTitle": "Bengaluru",
-          "tasks": ["Maintained Databases, Developed new Dashboards"]
+          "tasks": [
+            "Maintained Databases, Developed new Dashboards",
+            "Web application development"
+          ]
         }
       ],
       "type": "work-details"
@@ -70,17 +86,24 @@
   "rightContent": [
     {
       "title": "Programming Languages",
-      "data": ["JavaScript", "go", "Typescript", "PHP"],
+      "data": ["JavaScript", "go", "Typescript", "PHP", "HTML", "CSS"],
       "type": "tags"
     },
     {
       "title": "Frameworks",
-      "data": ["nodeJs", "reactJs", "react Native"],
+      "data": [
+        "Node.js",
+        "React",
+        "React Native",
+        "NestJS",
+        "jQuery",
+        "Electron"
+      ],
       "type": "tags"
     },
     {
       "title": "Databases",
-      "data": ["MySQL", "PostGreSQL", "MongoDB"],
+      "data": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
       "type": "tags"
     },
     {
