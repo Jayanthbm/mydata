@@ -2,7 +2,7 @@
   "header": {
     "name": "Jayanthbharadwaj M",
     "title": "Full Stack Developer",
-    "description": "Developer with more than 5 years of experience in Full Stack development",
+    "description": "Experienced developer with over 5 years of expertise in Full Stack development.",
     "email": "jayanthbharadwajm@gmail.com",
     "mobile": "8892218173",
     "github": "https://github.com/Jayanthbm",
@@ -17,14 +17,22 @@
           "subtitle": "Truminds software systems",
           "leftSmallTitle": "11/2023 - Present",
           "rightSmallTitle": "Bengaluru",
-          "tasks": []
+          "tasks": [
+            "Led a project named Migration Service, responsible for creating required AWS resources and facilitating migration between accounts.",
+            "Developed the backend for a Dashboard Project featuring dynamic API, where logic execution is based on JSON stored in the database."
+          ]
         },
         {
           "title": "Senior Developement Engineer-2",
           "subtitle": "Truminds software systems ",
           "leftSmallTitle": "11/2022 - 11/2023",
           "rightSmallTitle": "Bengaluru",
-          "tasks": []
+          "tasks": [
+            "Led frontend development efforts for a dashboard project involving rendering multiple camera feeds, maps, and other visualizations.",
+            "Contributed to an IAM project based on AWS Cognito, enhancing authentication and authorization functionalities.",
+            "Implemented various services in TruIAM such as MFA, WebAuthn, social login, and passwordless authentication.",
+            "Gained hands-on experience with multiple AWS services including Cognito, Lambda functions, S3, CloudFront, Secret Manager, API Gateway, Route 53, and CloudWatch."
+          ]
         },
         {
           "title": "Associate Software Engineer",
@@ -32,10 +40,10 @@
           "leftSmallTitle": "10/2021 - 11/2022",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
-            "Worked as a Backend developer in the Edtech platform named Aulas.",
-            "User Management development which includes user registration, creation and updating of users.",
-            " Fee Management which includes the creation of fee links and acceptance of payments (Cashfree Integration).",
-            " Communication Service Involves sending SMS and email to Users."
+            "Served as a backend developer for the Edtech platform named Aulas.",
+            "Developed user management functionalities, including registration, creation, and updating of user profiles.",
+            "Implemented fee management features, facilitating the creation of fee links and seamless payment acceptance through Cashfree integration.",
+            "Designed communication services for sending SMS and email notifications to users."
           ]
         },
         {
@@ -44,9 +52,9 @@
           "leftSmallTitle": "10/2018 - 10/2021",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
-            "Development of web applications based on PHP, Node Js and React",
-            "Development of Mobile Applications using React-Native",
-            "Creating and Maintaining of database-users and databases"
+            "Developed web applications using PHP, Node.js, and React.",
+            "Designed and implemented mobile applications using React Native.",
+            "Managed database users and databases, ensuring smooth operation and integrity."
           ]
         },
         {
@@ -55,8 +63,8 @@
           "leftSmallTitle": "08/2018 - 10/2018",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
-            "Maintained Databases, Developed new Dashboards",
-            "Web application development"
+            "Assisted in database maintenance and development of new dashboards.",
+            "Contributed to web application development projects."
           ]
         }
       ],
@@ -112,6 +120,42 @@
       "type": "tags"
     },
     {
+      "title": "Personal Projects",
+      "data": [
+        {
+          "title": "Stothram",
+          "link": "https://github.com/Jayanthbm/stothram",
+          "leftSmallTitle": "06/2020 - Present",
+          "rightSmallTitle": "",
+          "subtitle": "Community Mobile App Developed in React Native",
+          "tasks": [
+            "Developed a mobile application using React Native for the community.",
+            "Published the application on the Google Play Store for easy access.",
+            "Created a Progressive Web App (PWA) using React.js, accessible at: https://jayanthbm.github.io/stothram-ios/",
+            "Implemented a JSON parser using React.js to dynamically render data in the application.",
+            "Hosted the JSON parser on GitHub, accessible at: https://jayanthbm.github.io/stothram-parser/"
+          ],
+          "technologies": ["React Native", "React"]
+        },
+        {
+          "title": "Trivia Bot",
+          "link": "https://github.com/Jayanthbm/triviabot",
+          "leftSmallTitle": "02/2018 - 03-2018",
+          "rightSmallTitle": "",
+          "subtitle": "Python-based Trivia Bot",
+          "tasks": [
+            "Developed a Python bot to capture and analyze screenshots at specific coordinates.",
+            "Utilized the Google Vision API and Tesseract to extract text from screenshots.",
+            "Implemented a Google query mechanism to search for the question online.",
+            "Analyzed search results and provided rankings for potential answers.",
+            "Predicted the correct answer based on ranking and relevance."
+          ],
+          "technologies": ["Python", "Google Vision API", "Tesseract"]
+        }
+      ],
+      "type": "projects"
+    },
+    {
       "title": "Languages",
       "data": [
         {
@@ -124,35 +168,6 @@
         }
       ],
       "type": "language"
-    },
-    {
-      "title": "Personal Projects",
-      "data": [
-        {
-          "title": "Stothram",
-          "link": "https://github.com/Jayanthbm/stothram",
-          "leftSmallTitle": "06/2020 - Present",
-          "rightSmallTitle": "",
-          "subtitle": "Mobile Application for community, developed Using React Native.",
-          "tasks": [
-            "Mobile Application for community, developed Using React Native.",
-            "Link : https://play.google.com/store/apps/details?id=com.jayanth.shotram ."
-          ],
-          "technologies": ["React Native", "React"]
-        },
-        {
-          "title": "Trivia Bot",
-          "link": "https://github.com/Jayanthbm/triviabot",
-          "leftSmallTitle": "02/2018 - 03-2018",
-          "rightSmallTitle": "",
-          "subtitle": "Trivia Bot in Python",
-          "tasks": [
-            "Developed a small bot using python which grabs the screenshot at a particular coordinates and converts it to text using google Vision API and googles the question and compares the result with options provided and ranks the answers and predict the answer for the question"
-          ],
-          "technologies": ["Python"]
-        }
-      ],
-      "type": "projects"
     },
     {
       "title": "Interests",
