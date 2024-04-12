@@ -111,7 +111,7 @@
     },
     {
       "title": "Databases",
-      "data": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+      "data": ["MySQL", "PostgreSQL", "MongoDB", "redis", "SQLite"],
       "type": "tags"
     },
     {
