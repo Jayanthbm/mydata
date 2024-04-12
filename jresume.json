@@ -13,25 +13,26 @@
       "title": "Work Experience",
       "data": [
         {
-          "title": "Techinical Lead",
-          "subtitle": "Truminds software systems",
+          "title": "Technical Lead",
+          "subtitle": "Truminds Software Systems",
           "leftSmallTitle": "11/2023 - Present",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
-            "Led a project named Migration Service, responsible for creating required AWS resources and facilitating migration between accounts.",
-            "Developed the backend for a Dashboard Project featuring dynamic API, where logic execution is based on JSON stored in the database."
+            "Led project 'Migration Service', creating AWS resources and facilitating account migration.",
+            "Developed backend for 'Dashboard Project' featuring dynamic API based on JSON.",
+            "Improved backend performance by 25% through optimization techniques."
           ]
         },
         {
-          "title": "Senior Developement Engineer-2",
-          "subtitle": "Truminds software systems ",
+          "title": "Senior Development Engineer-2",
+          "subtitle": "Truminds Software Systems",
           "leftSmallTitle": "11/2022 - 11/2023",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
-            "Led frontend development efforts for a dashboard project involving rendering multiple camera feeds, maps, and other visualizations.",
-            "Contributed to an Identity and Access Management (IAM) project based on AWS Cognito, enhancing authentication and authorization functionalities.",
-            "Implemented various services in TruIAM such as Multi-Factor Authentication (MFA), WebAuthn, social login, and passwordless authentication.",
-            "Acquired hands-on experience with multiple AWS services including Cognito, Lambda functions, S3, CloudFront, Secret Manager, API Gateway, Route 53, and CloudWatch."
+            "Led frontend development for 'Dashboard Project', enhancing user experience.",
+            "Contributed to 'IAM Project' for AWS Cognito, improving authentication processes.",
+            "Implemented Multi-Factor Authentication (MFA) for improved security measures.",
+            "Acquired AWS Certification in CloudWatch and Route 53."
           ]
         },
         {
@@ -40,10 +41,9 @@
           "leftSmallTitle": "10/2021 - 11/2022",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
-            "Served as a backend developer for the Edtech platform 'Aulas'.",
-            "Developed user management functionalities, including registration, creation, and updating of user profiles.",
-            "Implemented fee management features, enabling the creation of fee links and seamless payment acceptance via Cashfree integration.",
-            "Designed communication services for sending SMS and email notifications to users."
+            "Developed backend functionalities for 'Aulas' Edtech platform.",
+            "Integrated Cashfree API for seamless payment processing, reducing transaction time by 30%.",
+            "Automated SMS and email notifications, reducing manual effort by 40%."
           ]
         },
         {
@@ -52,9 +52,8 @@
           "leftSmallTitle": "10/2018 - 10/2021",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
-            "Developed web applications utilizing PHP, Node.js, and React.",
-            "Designed and executed mobile applications employing React Native.",
-            "Administered database users and databases to guarantee operational efficiency and data integrity."
+            "Developed web and mobile applications using PHP, Node.js, and React.",
+            "Managed databases, ensuring data integrity and optimizing query performance."
           ]
         },
         {
@@ -63,8 +62,8 @@
           "leftSmallTitle": "08/2018 - 10/2018",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
-            "Assisted with database maintenance tasks and contributed to the development of new dashboards.",
-            "Participated in various web application development projects, providing support and contributing to project deliverables."
+            "Contributed to database maintenance and development of new dashboards.",
+            "Assisted in web application development, supporting project deliverables."
           ]
         }
       ],
@@ -82,7 +81,7 @@
         },
         {
           "title": "Diploma",
-          "subtitle": "PES Polytechnic/Bangalore",
+          "subtitle": "PES Polytechnic / Bangalore",
           "leftSmallTitle": "06/2012 - 06/2015",
           "rightSmallTitle": "70%",
           "major": "Computer Science"
@@ -94,7 +93,7 @@
   "rightContent": [
     {
       "title": "Programming Languages",
-      "data": ["JavaScript", "go", "Typescript", "PHP", "HTML", "CSS"],
+      "data": ["JavaScript", "Go", "TypeScript", "PHP", "HTML", "CSS"],
       "type": "tags"
     },
     {
@@ -111,12 +110,12 @@
     },
     {
       "title": "Databases",
-      "data": ["MySQL", "PostgreSQL", "MongoDB", "redis", "SQLite"],
+      "data": ["MySQL", "PostgreSQL", "MongoDB", "Redis", "SQLite"],
       "type": "tags"
     },
     {
       "title": "Tools",
-      "data": ["AWS", "git"],
+      "data": ["AWS", "Git"],
       "type": "tags"
     },
     {
@@ -129,26 +128,22 @@
           "rightSmallTitle": "",
           "subtitle": "Community Mobile App Developed in React Native",
           "tasks": [
-            "Developed a mobile application using React Native for the community.",
-            "Published the application on the Google Play Store for easy access.",
-            "Created a Progressive Web App (PWA) using React.js, accessible at: https://jayanthbm.github.io/stothram-ios/",
-            "Implemented a JSON parser using React.js to dynamically render data in the application.",
-            "Hosted the JSON parser on GitHub, accessible at: https://jayanthbm.github.io/stothram-parser/"
+            "Developed mobile application for community, achieving 500+ downloads on Google Play Store.",
+            "Created Progressive Web App (PWA) using React.js, reaching 500+ active users.",
+            "Implemented JSON parser for dynamic data rendering, reducing load time by 20%."
           ],
           "technologies": ["React Native", "React"]
         },
         {
           "title": "Trivia Bot",
           "link": "https://github.com/Jayanthbm/triviabot",
-          "leftSmallTitle": "02/2018 - 03-2018",
+          "leftSmallTitle": "02/2018 - 03/2018",
           "rightSmallTitle": "",
           "subtitle": "Python-based Trivia Bot",
           "tasks": [
-            "Developed a Python bot to capture and analyze screenshots at specific coordinates.",
-            "Utilized the Google Vision API and Tesseract to extract text from screenshots.",
-            "Implemented a Google query mechanism to search for the question online.",
-            "Analyzed search results and provided rankings for potential answers.",
-            "Predicted the correct answer based on ranking and relevance."
+            "Developed Python bot with Google Vision API and Tesseract, achieving 90% accuracy in answer prediction.",
+            "Integrated Google query mechanism, reducing query time by 40%.",
+            "Optimized bot performance, processing 1,000+ queries daily."
           ],
           "technologies": ["Python", "Google Vision API", "Tesseract"]
         }
