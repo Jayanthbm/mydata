@@ -1,0 +1,178 @@
+{
+  "header": {
+    "name": "Jayanthbharadwaj M",
+    "title": "Full Stack Developer",
+    "description": "Experienced developer with over 5 years of expertise in Full Stack development.",
+    "email": "jayanthbharadwajm@gmail.com",
+    "mobile": "8892218173",
+    "github": "https://github.com/Jayanthbm",
+    "location": "Bangalore, India"
+  },
+  "leftContent": [
+    {
+      "title": "Work Experience",
+      "data": [
+        {
+          "title": "Techinical Lead",
+          "subtitle": "Truminds software systems",
+          "leftSmallTitle": "11/2023 - Present",
+          "rightSmallTitle": "Bengaluru",
+          "tasks": [
+            "Led a project named Migration Service, responsible for creating required AWS resources and facilitating migration between accounts.",
+            "Developed the backend for a Dashboard Project featuring dynamic API, where logic execution is based on JSON stored in the database."
+          ]
+        },
+        {
+          "title": "Senior Developement Engineer-2",
+          "subtitle": "Truminds software systems ",
+          "leftSmallTitle": "11/2022 - 11/2023",
+          "rightSmallTitle": "Bengaluru",
+          "tasks": [
+            "Led frontend development efforts for a dashboard project involving rendering multiple camera feeds, maps, and other visualizations.",
+            "Contributed to an IAM project based on AWS Cognito, enhancing authentication and authorization functionalities.",
+            "Implemented various services in TruIAM such as MFA, WebAuthn, social login, and passwordless authentication.",
+            "Gained hands-on experience with multiple AWS services including Cognito, Lambda functions, S3, CloudFront, Secret Manager, API Gateway, Route 53, and CloudWatch."
+          ]
+        },
+        {
+          "title": "Associate Software Engineer",
+          "subtitle": "Brigosha Technologies",
+          "leftSmallTitle": "10/2021 - 11/2022",
+          "rightSmallTitle": "Bengaluru",
+          "tasks": [
+            "Served as a backend developer for the Edtech platform named Aulas.",
+            "Developed user management functionalities, including registration, creation, and updating of user profiles.",
+            "Implemented fee management features, facilitating the creation of fee links and seamless payment acceptance through Cashfree integration.",
+            "Designed communication services for sending SMS and email notifications to users."
+          ]
+        },
+        {
+          "title": "Product Developer",
+          "subtitle": "Camp Automation",
+          "leftSmallTitle": "10/2018 - 10/2021",
+          "rightSmallTitle": "Bengaluru",
+          "tasks": [
+            "Developed web applications using PHP, Node.js, and React.",
+            "Designed and implemented mobile applications using React Native.",
+            "Managed database users and databases, ensuring smooth operation and integrity."
+          ]
+        },
+        {
+          "title": "Intern",
+          "subtitle": "Augplat Technologies",
+          "leftSmallTitle": "08/2018 - 10/2018",
+          "rightSmallTitle": "Bengaluru",
+          "tasks": [
+            "Assisted in database maintenance and development of new dashboards.",
+            "Contributed to web application development projects."
+          ]
+        }
+      ],
+      "type": "work-details"
+    },
+    {
+      "title": "Education",
+      "data": [
+        {
+          "title": "Bachelor of Engineering",
+          "subtitle": "Bangalore Institute of Technology / Bangalore",
+          "leftSmallTitle": "08/2015 - 06/2018",
+          "rightSmallTitle": "53%",
+          "major": "Information Science"
+        },
+        {
+          "title": "Diploma",
+          "subtitle": "PES Polytechnic/Bangalore",
+          "leftSmallTitle": "06/2012 - 06/2015",
+          "rightSmallTitle": "70%",
+          "major": "Computer Science"
+        }
+      ],
+      "type": "education-details"
+    }
+  ],
+  "rightContent": [
+    {
+      "title": "Programming Languages",
+      "data": ["JavaScript", "go", "Typescript", "PHP", "HTML", "CSS"],
+      "type": "tags"
+    },
+    {
+      "title": "Frameworks",
+      "data": [
+        "Node.js",
+        "React",
+        "React Native",
+        "NestJS",
+        "jQuery",
+        "Electron"
+      ],
+      "type": "tags"
+    },
+    {
+      "title": "Databases",
+      "data": ["MySQL", "PostgreSQL", "MongoDB", "redis", "SQLite"],
+      "type": "tags"
+    },
+    {
+      "title": "Tools",
+      "data": ["AWS", "git"],
+      "type": "tags"
+    },
+    {
+      "title": "Personal Projects",
+      "data": [
+        {
+          "title": "Stothram",
+          "link": "https://github.com/Jayanthbm/stothram",
+          "leftSmallTitle": "06/2020 - Present",
+          "rightSmallTitle": "",
+          "subtitle": "Community Mobile App Developed in React Native",
+          "tasks": [
+            "Developed a mobile application using React Native for the community.",
+            "Published the application on the Google Play Store for easy access.",
+            "Created a Progressive Web App (PWA) using React.js, accessible at: https://jayanthbm.github.io/stothram-ios/",
+            "Implemented a JSON parser using React.js to dynamically render data in the application.",
+            "Hosted the JSON parser on GitHub, accessible at: https://jayanthbm.github.io/stothram-parser/"
+          ],
+          "technologies": ["React Native", "React"]
+        },
+        {
+          "title": "Trivia Bot",
+          "link": "https://github.com/Jayanthbm/triviabot",
+          "leftSmallTitle": "02/2018 - 03-2018",
+          "rightSmallTitle": "",
+          "subtitle": "Python-based Trivia Bot",
+          "tasks": [
+            "Developed a Python bot to capture and analyze screenshots at specific coordinates.",
+            "Utilized the Google Vision API and Tesseract to extract text from screenshots.",
+            "Implemented a Google query mechanism to search for the question online.",
+            "Analyzed search results and provided rankings for potential answers.",
+            "Predicted the correct answer based on ranking and relevance."
+          ],
+          "technologies": ["Python", "Google Vision API", "Tesseract"]
+        }
+      ],
+      "type": "projects"
+    },
+    {
+      "title": "Languages",
+      "data": [
+        {
+          "name": "English",
+          "level": "Professional Working Proficiency"
+        },
+        {
+          "name": "Kannada",
+          "level": "Native"
+        }
+      ],
+      "type": "language"
+    },
+    {
+      "title": "Interests",
+      "data": ["Cricket", "Movies", "Music"],
+      "type": "tags"
+    }
+  ]
+}

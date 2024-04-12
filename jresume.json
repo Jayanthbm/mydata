@@ -29,9 +29,9 @@
           "rightSmallTitle": "Bengaluru",
           "tasks": [
             "Led frontend development efforts for a dashboard project involving rendering multiple camera feeds, maps, and other visualizations.",
-            "Contributed to an IAM project based on AWS Cognito, enhancing authentication and authorization functionalities.",
-            "Implemented various services in TruIAM such as MFA, WebAuthn, social login, and passwordless authentication.",
-            "Gained hands-on experience with multiple AWS services including Cognito, Lambda functions, S3, CloudFront, Secret Manager, API Gateway, Route 53, and CloudWatch."
+            "Contributed to an Identity and Access Management (IAM) project based on AWS Cognito, enhancing authentication and authorization functionalities.",
+            "Implemented various services in TruIAM such as Multi-Factor Authentication (MFA), WebAuthn, social login, and passwordless authentication.",
+            "Acquired hands-on experience with multiple AWS services including Cognito, Lambda functions, S3, CloudFront, Secret Manager, API Gateway, Route 53, and CloudWatch."
           ]
         },
         {
@@ -40,9 +40,9 @@
           "leftSmallTitle": "10/2021 - 11/2022",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
-            "Served as a backend developer for the Edtech platform named Aulas.",
+            "Served as a backend developer for the Edtech platform 'Aulas'.",
             "Developed user management functionalities, including registration, creation, and updating of user profiles.",
-            "Implemented fee management features, facilitating the creation of fee links and seamless payment acceptance through Cashfree integration.",
+            "Implemented fee management features, enabling the creation of fee links and seamless payment acceptance via Cashfree integration.",
             "Designed communication services for sending SMS and email notifications to users."
           ]
         },
@@ -52,9 +52,9 @@
           "leftSmallTitle": "10/2018 - 10/2021",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
-            "Developed web applications using PHP, Node.js, and React.",
-            "Designed and implemented mobile applications using React Native.",
-            "Managed database users and databases, ensuring smooth operation and integrity."
+            "Developed web applications utilizing PHP, Node.js, and React.",
+            "Designed and executed mobile applications employing React Native.",
+            "Administered database users and databases to guarantee operational efficiency and data integrity."
           ]
         },
         {
@@ -63,8 +63,8 @@
           "leftSmallTitle": "08/2018 - 10/2018",
           "rightSmallTitle": "Bengaluru",
           "tasks": [
-            "Assisted in database maintenance and development of new dashboards.",
-            "Contributed to web application development projects."
+            "Assisted with database maintenance tasks and contributed to the development of new dashboards.",
+            "Participated in various web application development projects, providing support and contributing to project deliverables."
           ]
         }
       ],
