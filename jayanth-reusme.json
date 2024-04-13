@@ -1,0 +1,131 @@
+{
+  "name": "Jayanthbharadwaj M",
+  "role": "Full Stack Developer",
+  "description": "Developer with more than 5 years of experience in Full Stack development",
+  "contactDetails": {
+    "mobile": {
+      "text": "8892218173",
+      "icon": "https://jayanthbm.github.io/mydata/icons/mobile.png"
+    },
+    "email": {
+      "text": "jayanthbharadwajm@gmail.com",
+      "icon": "https://jayanthbm.github.io/mydata/icons/email.png"
+    },
+    "address": {
+      "text": "Bengaluru",
+      "icon": "https://jayanthbm.github.io/mydata/icons/location.png"
+    },
+    "links": [
+      {
+        "link": "https://www.linkedin.com/in/jayanthbharadwaj-m-814a5697/",
+        "icon": "https://jayanthbm.github.io/mydata/icons/linkedin.png",
+        "title": "LinkedIn"
+      },
+      {
+        "link": "https://github.com/Jayanthbm",
+        "icon": "https://jayanthbm.github.io/mydata/icons/github.png",
+        "title": "GitHub"
+      }
+    ]
+  },
+  "skills": {
+    "Programming Languages": [
+      "JavaScript",
+      "go",
+      "Typescript",
+      "PHP",
+      "Java",
+      "C++"
+    ],
+    "Frameworks": ["nodeJs", "reactJs", "react Native"],
+    "Databases": ["MySQL", "PostGreSQL", "MongoDB"],
+    "Tools": ["AWS", "git"]
+  },
+  "work": [
+    {
+      "role": "Technical Lead",
+      "company": "Truminds Software Systems",
+      "duration": "11/2023 - Present",
+      "location": "Bengaluru",
+      "tasks": [
+        "Led 'Migration Service' project, creating AWS resources and facilitating account migration.",
+        "Developed backend for 'Dashboard Project' with dynamic API based on JSON.",
+        "Optimized backend performance by 25% through performance tuning.",
+        "Implemented automated testing procedures resulting in a 40% reduction in testing time.",
+        "Mentored junior developers, resulting in a 20% improvement in their coding efficiency.",
+        "Streamlined project management processes, reducing project completion time by 15%."
+      ]
+    },
+    {
+      "role": "Senior Development Engineer-2",
+      "company": "Truminds Software Systems",
+      "duration": "11/2022 - 11/2023",
+      "location": "Bengaluru",
+      "tasks": [
+        "Led frontend development for 'Dashboard Project', enhancing user experience.",
+        "Contributed to 'IAM Project' for AWS Cognito, improving authentication processes.",
+        "Implemented Multi-Factor Authentication (MFA) for enhanced security.",
+        "Acquired AWS Certification in CloudWatch and Route 53.",
+        "Optimized front-end code resulting in a 30% decrease in page load time.",
+        "Collaborated with cross-functional teams, ensuring seamless project execution."
+      ]
+    },
+    {
+      "role": "Associate Software Engineer",
+      "company": "Brigosha Technologies",
+      "duration": "10/2021 - 11/2022",
+      "location": "Bengaluru",
+      "tasks": [
+        "Served as a backend developer for the Edtech platform named Aulas.",
+        "Developed user management functionalities, including registration, creation, and updating of user profiles.",
+        "Implemented fee management features, facilitating the creation of fee links and seamless payment acceptance through Cashfree integration.",
+        "Designed communication services for sending SMS and email notifications to users.",
+        "Reduced backend response time by 20% through code optimization.",
+        "Enhanced team collaboration by implementing Agile methodologies, resulting in a 25% increase in productivity."
+      ]
+    },
+    {
+      "role": "Product Developer",
+      "company": "Camp Automation",
+      "duration": "10/2018 - 10/2021",
+      "location": "Bengaluru",
+      "tasks": [
+        "Developed web applications using PHP, Node.js, and React.",
+        "Designed and implemented mobile applications using React Native.",
+        "Managed database users and databases, ensuring smooth operation and integrity.",
+        "Improved application security by implementing encryption algorithms, resulting in zero security breaches.",
+        "Established CI/CD pipelines, reducing deployment time by 30%."
+      ]
+    },
+    {
+      "role": "Intern",
+      "company": "Augplat Technologies",
+      "duration": "08/2018 - 10/2018",
+      "location": "Bengaluru",
+      "tasks": [
+        "Assisted in database maintenance and development of new dashboards.",
+        "Contributed to web application development projects.",
+        "Participated in weekly code reviews, identifying and fixing over 50 bugs.",
+        "Collaborated with senior engineers on implementing scalable solutions for performance optimization."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor of Engineering",
+      "school": "Bangalore Institute of Technology",
+      "location": "Bengaluru",
+      "duration": "08/2015 - 06/2018",
+      "grade": "53%",
+      "major": "Information Science"
+    },
+    {
+      "title": "Diploma",
+      "school": "PES Polytechnic",
+      "location": "Bengaluru",
+      "duration": "06/2012 - 06/2015",
+      "grade": "70%",
+      "major": "Computer Science"
+    }
+  ]
+}
