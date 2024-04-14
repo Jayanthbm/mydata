@@ -3,18 +3,9 @@
   "role": "Full Stack Developer",
   "description": "Developer with more than 5 years of experience in Full Stack development",
   "contactDetails": {
-    "mobile": {
-      "text": "8892218173",
-      "icon": "https://jayanthbm.github.io/mydata/icons/mobile.png"
-    },
-    "email": {
-      "text": "jayanthbharadwajm@gmail.com",
-      "icon": "https://jayanthbm.github.io/mydata/icons/email.png"
-    },
-    "address": {
-      "text": "Bengaluru",
-      "icon": "https://jayanthbm.github.io/mydata/icons/location.png"
-    },
+    "mobile": "8892218173",
+    "email": "jayanthbharadwajm@gmail.com",
+    "address": "Bengaluru",
     "links": [
       {
         "link": "https://www.linkedin.com/in/jayanthbharadwaj-m-814a5697/",
@@ -37,9 +28,20 @@
       "Java",
       "C++"
     ],
-    "Frameworks": ["nodeJs", "reactJs", "react Native"],
-    "Databases": ["MySQL", "PostGreSQL", "MongoDB"],
-    "Tools": ["AWS", "git"]
+    "Frameworks": [
+      "nodeJs",
+      "reactJs",
+      "react Native"
+    ],
+    "Databases": [
+      "MySQL",
+      "PostGreSQL",
+      "MongoDB"
+    ],
+    "Tools": [
+      "AWS",
+      "git"
+    ]
   },
   "work": [
     {
