@@ -1,0 +1,44 @@
+#EXTM3U x-tvg-url="http://192.168.1.108:5001/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id=757 tvg-name="Colors Kannada HD" tvg-logo="http://192.168.1.108:5001/jtvimage/Colors_Kannada_HD.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="Entertainment", Colors Kannada HD
+http://192.168.1.108:5001/live/757.m3u8
+
+
+#EXTINF:-1 tvg-id=1362 tvg-name="Zee Kannada HD" tvg-logo="http://192.168.1.108:5001/jtvimage/Zee_Kannada_HD.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="Entertainment", Zee Kannada HD
+http://192.168.1.108:5001/live/1362.m3u8
+
+
+#EXTINF:-1 tvg-id=896 tvg-name="Sun TV HD" tvg-logo="http://192.168.1.108:5001/jtvimage/Sun_TV_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Sun TV HD
+http://192.168.1.108:5001/live/896.m3u8
+
+
+#EXTINF:-1 tvg-id=1209 tvg-name="Kalaignar TV" tvg-logo="http://192.168.1.108:5001/jtvimage/Kalaignar_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Kalaignar TV
+http://192.168.1.108:5001/live/1209.m3u8
+
+
+#EXTINF:-1 tvg-id=682 tvg-name="Sun Life" tvg-logo="http://192.168.1.108:5001/jtvimage/Sun_Life.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", Sun Life
+http://192.168.1.108:5001/live/682.m3u8
+
+
+#EXTINF:-1 tvg-id=901 tvg-name="Udaya HD" tvg-logo="http://192.168.1.108:5001/jtvimage/Udaya_HD.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="Entertainment", Udaya HD
+http://192.168.1.108:5001/live/901.m3u8
+
+
+#EXTINF:-1 tvg-id=678 tvg-name="Udaya Movies" tvg-logo="http://192.168.1.108:5001/jtvimage/Udaya_Movies.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Udaya Movies
+http://192.168.1.108:5001/live/678.m3u8
+
+
+#EXTINF:-1 tvg-id=894 tvg-name="KTV HD" tvg-logo="http://192.168.1.108:5001/jtvimage/KTV_HD.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", KTV HD
+http://192.168.1.108:5001/live/894.m3u8
+
+
+#EXTINF:-1 tvg-id=895 tvg-name="Sun Music HD" tvg-logo="http://192.168.1.108:5001/jtvimage/Sun_Music_HD.png" tvg-language="Tamil" tvg-type="Music" group-title="Music", Sun Music HD
+http://192.168.1.108:5001/live/895.m3u8
+
+#EXTINF:-1 tvg-id=162 tvg-name="Sony Ten 1 HD" tvg-logo="http://192.168.1.108:5001/jtvimage/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 HD
+http://192.168.1.108:5001/live/162.m3u8
+
+
+#EXTINF:-1 tvg-id=891 tvg-name="Sony Ten 2 HD" tvg-logo="http://192.168.1.108:5001/jtvimage/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 2 HD
+http://192.168.1.108:5001/live/891.m3u8
