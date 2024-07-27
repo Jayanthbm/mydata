@@ -6,7 +6,6 @@ https://allinonereborn.in/jiobe11.m3u8?id=1737
 #EXTINF:-1 tvg-id="1748" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Zee_Kannada_HD.png" group-title="KANNADA",ZEE KANNADA 4K
 https://allinonereborn.in/jiobe11.m3u8?id=1748
 
-
 #EXTINF:-1 tvg-id="998" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Sun_TV_HD.png" group-title="TAMIL",SUN TV HD
 https://allinonereborn.in/jiobe11.m3u8?id=998
 
@@ -21,57 +20,18 @@ https://allinonereborn.in/jiobe11.m3u8?id=1735
 https://allinonereborn.in/jiobe11.m3u8?id=973
 
 
-#EXTINF:-1 tvg-id="1003" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Sun_Life.png" group-title="TAMIL",SUN LIFE
-https://allinonereborn.in/jiobe11.m3u8?id=1003
-
-#EXTINF:-1 tvg-id="994" tvg-logo="" group-title="TAMIL",SUN MUSIC HD
-https://allinonereborn.in/jiobe11.m3u8?id=994
-
-#EXTINF:-1 tvg-id="8469" tvg-logo="" group-title="KANNADA",STAR SPORTS KANNADA
-https://allinonereborn.in/jiobe11.m3u8?id=8469
-
-
-#EXTINF:-1 tvg-id="373" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Ten_HD.png" group-title="CRICKET",SONY SPORTS 1 4K
+#EXTINF:-1 tvg-id="373" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Ten_HD.png" group-title="SPORTS",SONY SPORTS 1 4K
 https://allinonereborn.in/jiobe11.m3u8?id=373
 
-#EXTINF:-1 tvg-id="370" tvg-logo="" group-title="CRICKET",SONY SPORTS 2 4K
+#EXTINF:-1 tvg-id="370" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Ten2_HD.png" group-title="SPORTS",SONY SPORTS 2 4K
 https://allinonereborn.in/jiobe11.m3u8?id=370
 
-#EXTINF:-1 tvg-id="371" tvg-logo="" group-title="CRICKET",SONY SPORTS 3 4K
-https://allinonereborn.in/jiobe11.m3u8?id=371
 
-#EXTINF:-1 tvg-id="8422" tvg-logo="" group-title="CRICKET",SONY SPORTS 5 4K*
-https://allinonereborn.in/jiobe11.m3u8?id=8422
-
-
-#EXTINF:-1 tvg-id="18739" tvg-logo="" group-title="SPORTS",SPORTS 18 4K
-https://allinonereborn.in/jiobe11.m3u8?id=18739
-
-
-#EXTINF:-1 tvg-id="909" tvg-logo="" group-title="SPORTS",STAR SPORTS 4K UHD hevc
-https://allinonereborn.in/jiobe11.m3u8?id=909
-
-#EXTINF:-1 tvg-id="6068" tvg-logo="" group-title="CRICKET",STAR SPORTS 1 4K
+#EXTINF:-1 tvg-id="6068" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png?20221025095646" group-title="SPORTS",STAR SPORTS 1 4K
 https://allinonereborn.in/jiobe11.m3u8?id=6068
 
-#EXTINF:-1 tvg-id="878" tvg-logo="" group-title="SPORTS",SKY SPORTS CRICKET 4K*
-https://allinonereborn.in/jiobe11.m3u8?id=878
-
-#EXTINF:-1 tvg-id="374" tvg-logo="" group-title="CRICKET",ASTRO CRICKET 4K
+#EXTINF:-1 tvg-id="374" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SPORTS",ASTRO CRICKET 4K
 https://allinonereborn.in/jiobe11.m3u8?id=374
 
-
-#EXTINF:-1 tvg-id="14831" tvg-logo="" group-title="CRICKET",FOX CRICKET AU 4K
-https://allinonereborn.in/jiobe11.m3u8?id=14831
-
-
-#EXTINF:-1 tvg-id="11779" tvg-logo="" group-title="CRICKET",ESPN CRICKET 4K
-https://allinonereborn.in/jiobe11.m3u8?id=11779
-
-
-#EXTINF:-1 tvg-id="14016" tvg-logo="" group-title="CRICKET",FOX CRICKET 501 4K
-https://allinonereborn.in/jiobe11.m3u8?id=14016
-
-
-#EXTINF:-1 tvg-id="354" tvg-logo="" group-title="CRICKET",SKY CIRCKET 4K
-https://allinonereborn.in/jiobe11.m3u8?id=354
+#EXTINF:-1 tvg-id="18739" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Sports18_1_HD.png" group-title="SPORTS",SPORTS 18 4K
+https://allinonereborn.in/jiobe11.m3u8?id=18739
