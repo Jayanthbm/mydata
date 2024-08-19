@@ -42,3 +42,44 @@ http://localhost:5001/live/162.m3u8
 
 #EXTINF:-1 tvg-id=891 tvg-name="Sony Ten 2 HD" tvg-logo="http://localhost:5001/jtvimage/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 2 HD
 http://localhost:5001/live/891.m3u8
+
+#EXTINF:-1 tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="http://localhost:5001/jtvimage/Sports18_1_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sports18 1 HD
+http://localhost:5001/live/1984.m3u8
+
+#EXTINF:-1 tvg-id=744 tvg-name="Udaya Music" tvg-logo="http://localhost:5001/jtvimage/Udaya_Music.png" tvg-language="Kannada" tvg-type="Music" group-title="Music", Udaya Music
+http://localhost:5001/live/744.m3u8
+
+#EXTINF:-1 tvg-id=743 tvg-name="Raj Music Kannada" tvg-logo="http://localhost:5001/jtvimage/Raj_Music_Kannada.png" tvg-language="Kannada" tvg-type="Music" group-title="Music", Raj Music Kannada
+http://localhost:5001/live/743.m3u8
+
+
+#EXTINF:-1 tvg-id=897 tvg-name="Gemini TV HD" tvg-logo="http://localhost:5001/jtvimage/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Gemini TV HD
+http://localhost:5001/live/897.m3u8
+
+#EXTINF:-1 tvg-id=898 tvg-name="Gemini Music HD" tvg-logo="http://localhost:5001/jtvimage/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Gemini Music HD
+http://localhost:5001/live/898.m3u8
+
+#EXTINF:-1 tvg-id=899 tvg-name="Gemini Movies HD" tvg-logo="http://localhost:5001/jtvimage/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Gemini Movies HD
+http://localhost:5001/live/899.m3u8
+
+#EXTINF:-1 tvg-id=413 tvg-name="Zee Cinemalu" tvg-logo="http://localhost:5001/jtvimage/Zee_Cinemalu.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Zee Cinemalu
+http://localhost:5001/live/413.m3u8
+
+#EXTINF:-1 tvg-id=638 tvg-name="Zee Telugu" tvg-logo="http://localhost:5001/jtvimage/Zee_Telugu.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Zee Telugu
+http://localhost:5001/live/638.m3u8
+
+
+#EXTINF:-1 tvg-id=619 tvg-name="TV9 Karnataka" tvg-logo="http://localhost:5001/jtvimage/TV9_Karnataka.png" tvg-language="Kannada" tvg-type="News" group-title="News", TV9 Karnataka
+http://localhost:5001/live/619.m3u8
+
+#EXTINF:-1 tvg-id=778 tvg-name="Public TV" tvg-logo="http://localhost:5001/jtvimage/Public_TV.png" tvg-language="Kannada" tvg-type="News" group-title="News", Public TV
+http://localhost:5001/live/778.m3u8
+
+#EXTINF:-1 tvg-id=626 tvg-name="Suvarna News" tvg-logo="http://localhost:5001/jtvimage/Suvarna_News.png" tvg-language="Kannada" tvg-type="News" group-title="News", Suvarna News
+http://localhost:5001/live/626.m3u8
+
+#EXTINF:-1 tvg-id=653 tvg-name="News18 Kannada News" tvg-logo="http://localhost:5001/jtvimage/ETV_Kannada_News.png" tvg-language="Kannada" tvg-type="News" group-title="News", News18 Kannada News
+http://localhost:5001/live/653.m3u8
+
+#EXTINF:-1 tvg-id=938 tvg-name="BTV" tvg-logo="http://localhost:5001/jtvimage/BTV.png" tvg-language="Kannada" tvg-type="News" group-title="News", BTV
+http://localhost:5001/live/938.m3u8
