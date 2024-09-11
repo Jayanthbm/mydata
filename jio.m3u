@@ -5,20 +5,20 @@ http://localhost:5001/live/757.m3u8
 
 #EXTINF:-1 tvg-id="675" tvg-name="Zee Kannada HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Zee_Kannada.png" tvg-language="Kannada", Zee Kannada HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ROyhhyDmlPrzp5KYD8F9cQ","kid":"L++F/5fiVPOSnFLgELns4Q"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kIw25blJRia0rUo4tvEv/g","kid":"7ZjQ6EMJV4+os3oAKz3fYg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99"}
-https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_917/output/babel.mpd|cookie:hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99
+#EXTHTTP:{"cookie":"hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7"}
+https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_917/output/babel.mpd|cookie:hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7
 
 #EXTINF:-1 tvg-id=896 tvg-name="Sun TV HD" tvg-logo="http://localhost:5001/jtvimage/Sun_TV_HD.png" tvg-language="Tamil", Sun TV HD
 http://localhost:5001/live/896.m3u8
 
 #EXTINF:-1 tvg-id="521" tvg-name="Sun TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" tvg-language="Tamil", Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KwWKLHvcnR5/Cer4Sx2r9Q","kid":"b040WDHiUCqltuk/FTgAyw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qSOB7arX5okehqnAQEePOQ","kid":"EK2Hgs4WUs2Rkh1hvBFhDg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99"}
-https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/babel.mpd|cookie:hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99
+#EXTHTTP:{"cookie":"hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7"}
+https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/babel.mpd|cookie:hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7
 
 #EXTINF:-1 tvg-id=1209 tvg-name="Kalaignar TV" tvg-logo="http://localhost:5001/jtvimage/Kalaignar_TV.png" tvg-language="Tamil", Kalaignar TV
 http://localhost:5001/live/1209.m3u8
@@ -123,48 +123,48 @@ http://localhost:5001/live/2956.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZiTXr9wMGcCBpUwk7IfAuw","kid":"3NGYOppOQ++jIbWVlJUkOw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99"}
-https://delta12tatasky.akamaized.net/out/i/22.mpd|cookie:hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99
+#EXTHTTP:{"cookie":"hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7"}
+https://delta12tatasky.akamaized.net/out/i/22.mpd|cookie:hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7
 
 #EXTINF:-1 tvg-id="635" tvg-name="Zee Telugu HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" tvg-language="Telugu", Zee Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8vJiKmP1S7hSN9mm7TmAgA","kid":"7BLhr1gbUDqKzlHU/y/dqQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"e5EpvV7autaKQa34fCEmWA","kid":"QYQrqTMIVaeP0+PLNeiF2g"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99"}
-https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/babel.mpd|cookie:hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99
+#EXTHTTP:{"cookie":"hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7"}
+https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/babel.mpd|cookie:hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7
 
 #EXTINF:-1 tvg-id="636" tvg-name="Zee Cinemalu HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" tvg-language="Telugu", Zee Cinemalu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pNzWkZFThJttm4ij9ZipDA","kid":"G3RdPCxyVeaVfn/qw25qrg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qcIojoNOVaSJdgm75BoScA","kid":"gkNLt7L2WwOypR9/r5E9dw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99"}
-https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/babel.mpd|cookie:hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99
+#EXTHTTP:{"cookie":"hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7"}
+https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/babel.mpd|cookie:hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7
 
 #EXTINF:-1 tvg-id="957" tvg-name="Star Maa Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" tvg-language="Telugu", Star Maa Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99"}
-|cookie:hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99
+#EXTHTTP:{"cookie":"hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7"}
+|cookie:hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7
 
 #EXTINF:-1 tvg-id="954" tvg-name="Star Maa Gold" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66595-kupdpd9k-v1/imageContent-66595-kupdpd9k-m1.png" tvg-language="Telugu", Star Maa Gold
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99"}
-https://delta39tatasky.akamaized.net/out/i/5223418.mpd|cookie:hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99
+#EXTHTTP:{"cookie":"hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7"}
+https://delta39tatasky.akamaized.net/out/i/5223418.mpd|cookie:hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7
 
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sports 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" tvg-language="English", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n5h3bNhC5uqBZgDcMshhPQ","kid":"unagkbSZUdiqIFyw6/X4HA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iEZWVtLhPouvZIg87Xu+7Q","kid":"GA8i/flGVcqn5Vn26X8FDw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99"}
-https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/babel.mpd|cookie:hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99
+#EXTHTTP:{"cookie":"hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7"}
+https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/babel.mpd|cookie:hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7
 
 #EXTINF:-1 tvg-id="235" tvg-name="Star Sports 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" tvg-language="English", Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HmrzmB+Vj/AuQUPZASCQ5Q","kid":"qbsojMWAUeWrVn7Y+v4DWg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"14i+5+Z6ZB9H9/K6CFQYTg","kid":"aVPXwzuAU9WjS5Z9+VLH7w"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99"}
-https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/babel.mpd|cookie:hdntl=exp=1726041290~acl=%2f*~data=hdntl~hmac=9dfabe9d73db7d1c6daabf7210327c5646b7a10aed68cf29c049706d1d63ab99
+#EXTHTTP:{"cookie":"hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7"}
+https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/babel.mpd|cookie:hdntl=exp=1726086899~acl=%2f*~data=hdntl~hmac=e2814e464975dd8593a2a6f5f33c027b33df581fc1f854cf73268e8f521b5bf7
 
