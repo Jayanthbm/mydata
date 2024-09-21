@@ -107,134 +107,134 @@ http://localhost:5001/live/2956.m3u8
 
 #EXTINF:-1 tvg-id="675" tvg-name="Zee Kannada HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33827-jo5kcr1c-v4/imageContent-33827-jo5kcr1c-m5.png" tvg-language="Kannada", Zee Kannada HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9jWhAWPLxS5JMM8N6Slyug","kid":"MdUQnuPSW7inLRdTuwyPEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_917/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_917/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="612" tvg-name="Colors Kannada HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12249-j9qr87hc-v5/imageContent-12249-j9qr87hc-m5.png" tvg-language="Kannada", Colors Kannada HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OMes02QV60cFKXIf77RV0g","kid":"82G1jrImXyyfwQXZcfFnLg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_490/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_490/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="492" tvg-name="Udaya TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11883-j9l3rjzc-v1/imageContent-11883-j9l3rjzc-m1.png" tvg-language="Kannada", Udaya TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iOPhxtRWxSNQAMLHGduG3A","kid":"RnCpjBIGXju3hU/NnBdQng"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_806/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_806/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="231" tvg-name="Udaya Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1002-j5nf74c0-v1/imageContent-1002-j5nf74c0-m1.png" tvg-language="Kannada", Udaya Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GgVRou8ZTUUVahNioM/g3g","kid":"Ci1TU1s9WLGC1Jqm+6EvqQ"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_228/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_228/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="467" tvg-name="Star Suvarna HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11816-j9kz224o-v1/imageContent-11816-j9kz224o-m1.png" tvg-language="Kannada", Star Suvarna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"loTDQMflszL8zSft0j2SfA","kid":"3p6+bM9PXZGXo78wNghd3Q"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="540" tvg-name="Star Suvarna Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12038-j9o0554o-v2/imageContent-12038-j9o0554o-m2.png" tvg-language="Kannada", Star Suvarna Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"80bLFoOfaPtZ9TgvsgHGjg","kid":"b1jJD5CkVtKj3M1vFn+QbA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_767/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_767/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="521" tvg-name="Sun TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" tvg-language="Tamil", Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+MubvEcXbOXNlXc5xHtzZw","kid":"6IcT/rH9UKmvwwzxgoTyJQ"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="380" tvg-name="KTV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" tvg-language="Tamil", KTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LVudNzMfgKbzDiXQc49GcQ","kid":"AJlx91+ZWkGtjIfeJqoW1g"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="200" tvg-name="Kalaignar TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" tvg-language="Tamil", Kalaignar TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9m7aXsMf6p2zcJwJi9/z1A","kid":"mF/zBmzbUhCNd2ox8Gz34Q"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_344/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_344/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="956" tvg-name="STAR Maa HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" tvg-language="Telugu", STAR Maa HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZiTXr9wMGcCBpUwk7IfAuw","kid":"3NGYOppOQ++jIbWVlJUkOw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://delta12tatasky.akamaized.net/out/i/22.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://delta12tatasky.akamaized.net/out/i/22.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="635" tvg-name="Zee Telugu HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" tvg-language="Telugu", Zee Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dlAvm62l6xwDz4PHVfdumA","kid":"gGsZG/fMWFaEK1nL7yqOcA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="636" tvg-name="Zee Cinemalu HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" tvg-language="Telugu", Zee Cinemalu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HV9zf/rV3rkXdm2bVd0m1A","kid":"MYD2LpeXUKqRcozo13uUoA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="516" tvg-name="STAR Maa HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" tvg-language="Telugu", STAR Maa HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6ybHUf/n3cHUcW8zX3EIvQ","kid":"tiG8kRyUXwCj6Sj2Vjd4rA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="957" tvg-name="Star Maa Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" tvg-language="Telugu", Star Maa Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="954" tvg-name="Star Maa Gold" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66595-kupdpd9k-v1/imageContent-66595-kupdpd9k-m1.png" tvg-language="Telugu", Star Maa Gold
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://delta39tatasky.akamaized.net/out/i/5223418.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://delta39tatasky.akamaized.net/out/i/5223418.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="81" tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" tvg-language="English", SONY SPORTS TEN 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C61yY+k4vB8TzN0gvyP8WA","kid":"nFeCKy+6UZqcguF/5qx1lA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="462" tvg-name="SONY SPORTS TEN 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" tvg-language="English", SONY SPORTS TEN 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sJd4SQ1IP88BtvvyhEhZqg","kid":"TV+qq7zoUoas79J7y+NZxg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="78" tvg-name="Star Sports 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" tvg-language="English", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TyJ0ngv1TaWZ/dqTx84F2w","kid":"tp92KdeyWCGtPGqBJxiiow"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
 #EXTINF:-1 tvg-id="235" tvg-name="Star Sports 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" tvg-language="English", Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Eg6IhL9djY8LXkNdauW9uw","kid":"k5NSURpmVS+D8JwHTkDBuQ"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"cookie":"Set-Cookie header not found"}
-https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/babel.mpd|cookie:Set-Cookie header not found
+#EXTHTTP:{"cookie":"hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a"}
+https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/babel.mpd|cookie:hdntl=exp=1726956825~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=1436929705~data=hdntl~hmac=e50183f59f5e7957b8d4845c44f882f364c6f40d6f7c5f6598674b3f6e3d038a
 
