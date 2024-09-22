@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id=757 tvg-name="Colors Kannada HD" tvg-logo="http://localhost:5001/jtvimage/Colors_Kannada_HD.png" tvg-language="Kannada", Colors Kannada HD
 http://localhost:5001/live/757.m3u8
 
+#EXTINF:-1 tvg-id="1000" tvg-name="Zee Kannada" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33827-jo5kcr1c-v4/imageContent-33827-jo5kcr1c-m5.png" tvg-language="Kannada", Zee Kannada
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada1/default/zeekannada1.m3u8
+
 #EXTINF:-1 tvg-id=896 tvg-name="Sun TV HD" tvg-logo="http://localhost:5001/jtvimage/Sun_TV_HD.png" tvg-language="Tamil", Sun TV HD
 http://localhost:5001/live/896.m3u8
 
@@ -59,6 +62,9 @@ http://localhost:5001/live/417.m3u8
 
 #EXTINF:-1 tvg-id=429 tvg-name="Colors Tamil HD" tvg-logo="http://localhost:5001/jtvimage/Colors_Tamil_HD.png" tvg-language="Tamil", Colors Tamil HD
 http://localhost:5001/live/429.m3u8
+
+#EXTINF:-1 tvg-id="1001" tvg-name="Sony Ten 5" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png" tvg-language="English", Sony Ten 5
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id=162 tvg-name="Sony Ten 1 HD" tvg-logo="http://localhost:5001/jtvimage/Ten_HD.png" tvg-language="English", Sony Ten 1 HD
 http://localhost:5001/live/162.m3u8
