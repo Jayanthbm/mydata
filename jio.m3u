@@ -9,6 +9,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada1/default/zeekannada1.m3u
 #EXTINF:-1 tvg-id=896 epg-id="896" tvg-name="Sun TV HD" tvg-logo="http://localhost:5001/jtvimage/Sun_TV_HD.png" tvg-language="Tamil", Sun TV HD
 http://localhost:5001/live/896.m3u8
 
+#EXTINF:-1 tvg-id="1001" epg-id="1362" tvg-name="Zee Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png" tvg-language="Kannada", Zee Kannada
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada1/default/master.m3u8
+
 #EXTINF:-1 tvg-id=1209 epg-id="1209" tvg-name="Kalaignar TV" tvg-logo="http://localhost:5001/jtvimage/Kalaignar_TV.png" tvg-language="Tamil", Kalaignar TV
 http://localhost:5001/live/1209.m3u8
 
@@ -63,14 +66,17 @@ http://localhost:5001/live/417.m3u8
 #EXTINF:-1 tvg-id=429 epg-id="429" tvg-name="Colors Tamil HD" tvg-logo="http://localhost:5001/jtvimage/Colors_Tamil_HD.png" tvg-language="Tamil", Colors Tamil HD
 http://localhost:5001/live/429.m3u8
 
-#EXTINF:-1 tvg-id="1001" epg-id="155" tvg-name="Sony Ten 5" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png" tvg-language="English", Sony Ten 5
-https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="1002" epg-id="628" tvg-name="Zee Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-language="Tamil", Zee Tamil
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/master.m3u8
 
-#EXTINF:-1 tvg-id=162 epg-id="162" tvg-name="Sony Ten 1 HD" tvg-logo="http://localhost:5001/jtvimage/Ten_HD.png" tvg-language="English", Sony Ten 1 HD
-http://localhost:5001/live/162.m3u8
+#EXTINF:-1 tvg-id="1003" epg-id="162" tvg-name="Sony Ten 1 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" tvg-language="English", Sony Ten 1 HD
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 
-#EXTINF:-1 tvg-id=891 epg-id="891" tvg-name="Sony Ten 2 HD" tvg-logo="http://localhost:5001/jtvimage/Ten2_HD.png" tvg-language="English", Sony Ten 2 HD
-http://localhost:5001/live/891.m3u8
+#EXTINF:-1 tvg-id="1004" epg-id="891" tvg-name="Sony Ten 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" tvg-language="English", Sony Ten 2 HD
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:-1 tvg-id="1005" epg-id="155" tvg-name="Sony Ten 5" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" tvg-language="English", Sony Ten 5
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-id=1984 epg-id="1984" tvg-name="Sports18 1 HD" tvg-logo="http://localhost:5001/jtvimage/Sports18_1_HD.png" tvg-language="English", Sports18 1 HD
 http://localhost:5001/live/1984.m3u8
@@ -89,6 +95,9 @@ http://localhost:5001/live/619.m3u8
 
 #EXTINF:-1 tvg-id=897 epg-id="897" tvg-name="Gemini TV HD" tvg-logo="http://localhost:5001/jtvimage/Gemini_TV_HD.png" tvg-language="Telugu", Gemini TV HD
 http://localhost:5001/live/897.m3u8
+
+#EXTINF:-1 tvg-id="1006" epg-id="413" tvg-name="Zee Cinemalu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" tvg-language="Telugu", Zee Cinemalu
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/master.m3u8
 
 #EXTINF:-1 tvg-id=899 epg-id="899" tvg-name="Gemini Movies HD" tvg-logo="http://localhost:5001/jtvimage/Gemini_Movies_HD.png" tvg-language="Telugu", Gemini Movies HD
 http://localhost:5001/live/899.m3u8
