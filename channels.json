@@ -1,0 +1,60 @@
+{
+  "channels": [
+    {
+      "name": "Colors Kannada HD",
+      "logo": "http://localhost:5001/jtvimage/Colors_Kannada_HD.png",
+      "type": "m3u8",
+      "epg_id": "757",
+      "tv_url": "http://localhost:5001/live/757.m3u8"
+    },
+    {
+      "name": "Zee Kannada HD",
+      "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33827-jo5kcr1c-v4/imageContent-33827-jo5kcr1c-m5.png",
+      "type": "externalApp",
+      "epg_id": "1362",
+      "tv_url": "https://www.zee5.com/live-tv/zee-kannada-hd/0-9-zeekannada"
+    },
+    {
+      "name": "Sun TV HD",
+      "logo": "http://localhost:5001/jtvimage/Sun_TV_HD.png",
+      "type": "externalApp",
+      "epg_id": "896",
+      "tv_url": "https://www.sunnxt.com/live/sun-tv-hd-dolby-vision-tamil-live/195491/sun-tv-hd-dolby-vision"
+    },
+    {
+      "name": "Kalaignar TV",
+      "logo": "http://localhost:5001/jtvimage/Kalaignar_TV.png",
+      "type": "m3u8",
+      "epg_id": "1209",
+      "tv_url": "http://localhost:5001/live/1209.m3u8"
+    },
+    {
+      "name": "KTV HD",
+      "logo": "http://localhost:5001/jtvimage/KTV_HD.png",
+      "type": "m3u8",
+      "epg_id": "1209",
+      "tv_url": "http://localhost:5001/live/894.m3u8"
+    },
+    {
+      "name": "Udaya HD",
+      "logo": "http://localhost:5001/jtvimage/Udaya_HD.png",
+      "type": "m3u8",
+      "epg_id": "901",
+      "tv_url": "http://localhost:5001/live/901.m3u8"
+    },
+    {
+      "name": "Udaya Movies",
+      "logo": "http://localhost:5001/jtvimage/Udaya_Movies.png",
+      "type": "m3u8",
+      "epg_id": "678",
+      "tv_url": "http://localhost:5001/live/678.m3u8"
+    },
+    {
+      "name": "Udaya Comedy",
+      "logo": "http://localhost:5001/jtvimage/Udaya_Comedy.png",
+      "type": "m3u8",
+      "epg_id": "733",
+      "tv_url": "http://localhost:5001/live/733.m3u8"
+    }
+  ]
+}
