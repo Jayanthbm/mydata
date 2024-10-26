@@ -25,22 +25,26 @@
       "go",
       "Typescript",
       "PHP",
-      "Java",
-      "C++"
+      "HTML",
+      "CSS"
     ],
     "Frameworks": [
-      "nodeJs",
-      "reactJs",
-      "react Native"
+      "Node.js",
+      "React",
+      "React Native",
+      "NestJS",
+      "Vite"
     ],
     "Databases": [
       "MySQL",
-      "PostGreSQL",
-      "MongoDB"
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
     ],
     "Tools": [
       "AWS",
-      "git"
+      "git",
+      "Azure"
     ]
   },
   "work": [
