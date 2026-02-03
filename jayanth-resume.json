@@ -21,17 +21,17 @@
   },
   "skills": {
     "Programming Languages": [
-      "JavaScript",
-      "go",
-      "Typescript",
+      "javaScript",
+      "typescript",
       "PHP",
       "HTML",
-      "CSS"
+      "CSS",
+      "go",
     ],
     "Frameworks": [
-      "Node.js",
-      "React",
-      "React Native",
+      "node.JS",
+      "react",
+      "react Native",
       "NestJS",
       "Vite"
     ],
@@ -39,7 +39,8 @@
       "MySQL",
       "PostgreSQL",
       "MongoDB",
-      "Redis"
+      "Redis",
+      "sqlite"
     ],
     "Tools": [
       "AWS",
